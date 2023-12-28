@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T19:18:27.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="b68YEpPLyz2-HiyOX1nx" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T19:21:58.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="rZ4MDBFpqAdyo8L-pOET" version="22.1.15" type="github">
   <diagram name="Page-1" id="PgcG3TLKtwn3ZaoVPNtb">
     <mxGraphModel dx="1582" dy="940" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
           <mxGeometry x="1000" y="850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a31T5-RE2H_aCCWQN1QR-12" value="Family Tree" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="1240" width="440" height="160" as="geometry">
+          <mxGeometry x="1260" y="1240" width="440" height="160" as="geometry">
             <mxRectangle x="620" y="1010" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -57,7 +57,7 @@
           <mxGeometry x="290" y="50" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a31T5-RE2H_aCCWQN1QR-16" value="JDG Website" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="910" y="1010" width="360" height="160" as="geometry">
+          <mxGeometry x="890" y="1010" width="360" height="160" as="geometry">
             <mxRectangle x="620" y="1010" width="110" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
